@@ -22,7 +22,7 @@
     
      Can you generate content for my PowerPoint slides, make sure it's comprehensive, includes market research, prespectives, Microsoft solutions and getting started also suggest some ideas for images within the slides if possible. 
     
-     Can you create an assessment for FinOps to check maturity of the customer with FinOps. I want 15 questions with options that customer can choose from and put it in a table format.
+     Can you create an assessment for FinOps to check maturity of the customer with FinOps. I want 10 questions with options that customer can choose from and put it in a table format.
 
 ### File to be used for data
 ![]()
