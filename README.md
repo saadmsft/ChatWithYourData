@@ -4,7 +4,7 @@
 
 
 ### Prompts to be used 
-<img src="https://ph-files.imgix.net/aef2db33-bc9d-4971-8fc6-28c28c682944.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=3" height="20%">
+<img src="https://ph-files.imgix.net/aef2db33-bc9d-4971-8fc6-28c28c682944.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=3" height="100" width="160">
 
      Can you share some expert tips on FinOps?
      
